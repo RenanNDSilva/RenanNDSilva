@@ -12,7 +12,7 @@
  
  🔭 Atualmente estou procurando meu **primeiro estágio**
  
- 🌱Estou estudando **Python e Django** e fazendo curso de formação **Front-End
+ 🌱Estou estudando **Python e Django** e fazendo curso de formação **Front-End**
 
 💬 Estou sempre aprendendo novas coisas como: Javascript, HTML5, CSS3, C por conta da Faculdade 
 
