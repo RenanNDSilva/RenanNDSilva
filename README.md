@@ -1,60 +1,54 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RenanNDSilva.RenanNDSilva" />
+# Olá, eu sou o Renan 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋;+Eu+sou+Renan+Nascimento!;" />
-</h1>
+Sou formado em **Análise e Desenvolvimento de Sistemas**, técnico em
+**Informática** e atualmente curso **Engenharia de Software**.
 
-<h3 align="center">Sou estudande de ADS em Fatec-Taquaritinga </h3>
+Tenho interesse em desenvolvimento web e experiência acadêmica e pessoal
+com projetos utilizando Python, Django, JavaScript, TypeScript, React,
+HTML, CSS e bancos de dados relacionais.
 
-<br/>
+Também possuo experiência de estágio em Tecnologia da Informação,
+atuando com suporte a usuários, manutenção e configuração de
+computadores, chamados, redes e sistemas internos.
 
-<div align="center">
- 
- 🔭 Atualmente estou procurando meu **primeiro estágio**
- 
- 🌱Estou estudando **Python e Django** e fazendo curso de formação **Front-End**
+## 🚀 Tecnologias
 
-💬 Estou sempre aprendendo novas coisas como: Javascript, HTML5, CSS3, C por conta da Faculdade 
+### Linguagens
+Python • JavaScript • TypeScript • PHP • C • C++
 
- </div>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/renan-nascimento-0a785129a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+### Desenvolvimento Web
+HTML • CSS • React • Django • Bootstrap • Tailwind CSS
 
- <hr/>
- 
-<h2 align="center">⚒️ Linguagens-Ferramentas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,django,pycharm" /><br>
-</div>
+### Banco de dados
+SQL • PostgreSQL • MySQL
 
-<br/>
-<hr/>
+### Ferramentas
+Git • GitHub
 
-<div align="center">
-  <h2>🐍 Minha Contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RenanNDSilva/RenanNDSilva/output/github-contribution-grid-snake.svg" />
+## 💻 Projetos em destaque
 
-  <br/><br/><br/>
-</div>
+### StudyHub
+Rede social voltada para estudantes, criada com foco na troca de
+conhecimentos e interações acadêmicas.
 
-<hr/>
+**Tecnologias:** TypeScript, React, HTML, CSS e Tailwind CSS.
 
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=RenanNDSilva&count_private=true&theme=react&include_all_commits=true&count_private=true&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RenanNDSilva&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNDSilva&hide_progress=false&theme=react"/>
-</div>
+### E-commerce
+Aplicação web de e-commerce desenvolvida individualmente para
+venda digital de chaves de software.
 
-<br/><br/>
+**Tecnologias:** Python, Django, JavaScript, HTML e CSS.
 
-<hr/>
+### AgroSapiens
+Projeto acadêmico de estação meteorológica. Minha participação foi
+voltada ao desenvolvimento front-end.
+
+## 🎓 Formação
+
+- Engenharia de Software — FAM — cursando
+- Análise e Desenvolvimento de Sistemas — Fatec Taquaritinga — concluído
+- Técnico em Informática — UNESP — concluído
+
+## 📫 Contato
+
+LinkedIn: linkedin.com/in/renan-nascimento-da-silva/
